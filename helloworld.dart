@@ -48,5 +48,9 @@ void main(){
   TestWidget2 wg2 = TestWidget2(chieucao: 10,chieurong: 20);
   print(wg2);
 
+  TestWidget2 wg3 = TestWidget2(chieucao: 100,chieurong: 200);
+
+  print(wg3);
+
 
 }
